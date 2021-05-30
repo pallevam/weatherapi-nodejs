@@ -1,0 +1,30 @@
+{
+  "name": "nodecourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "express": "^4.17.1",
+    "express-generator": "^4.2.0",
+    "hbs": "^4.1.2",
+    "request": "^2.88.2",
+    "validator": "^13.6.0",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallevam/NotesApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pallevam/NotesApp/issues"
+  },
+  "homepage": "https://github.com/pallevam/NotesApp#readme"
+}
